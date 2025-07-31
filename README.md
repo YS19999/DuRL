@@ -1,2 +1,2 @@
 # DuRL
-paper: "A Dual Representation Alignment Network for Multi-Domain Generalization Few-shot intent detection" on INFORMATION FUSION (under review).
+paper: "Multi-Domain Generalization Few-Shot Intent Detection with Dual Representation Learning" on INFORMATION FUSION (under review).
