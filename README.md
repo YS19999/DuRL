@@ -1,2 +1,2 @@
 # DuRL
-paper: "Multi-Domain Generalization Few-Shot Intent Detection with Dual Representation Learning" on INFORMATION FUSION (under review).
+Multi-domain generalization few-shot intent recognition with dual representation learning
