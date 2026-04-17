@@ -4,7 +4,7 @@ Intent recognition stands as one of the key challenges in achieving high-quality
 ## How to train
 python main.py
 ## Set dataset in args
-**cb**: Clinic150→Banking77
+**cb**: Clinic150→Banking77 \n
 **ca**: Clinic150→ACID
 **ch**: Clinic150→Hwu64
 **bc**: Banking77→Clinic150
