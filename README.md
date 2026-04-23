@@ -12,3 +12,19 @@ python main.py
 **bc**: Banking77→Clinic150<br>
 **ba**: Banking77→ACID<br>
 **bh**: Banking77→Hwu64<br>
+## Citation
+If you use this work in your research, please cite it as follows:
+
+```bibtex
+@article{YANG2026104781,
+title = {Multi-domain generalization few-shot intent recognition with dual representation learning},
+author = {Shun Yang and Yajun Du},
+journal = {Information Processing & Management},
+volume = {63},
+number = {6},
+pages = {104781},
+year = {2026},
+issn = {0306-4573},
+doi = {https://doi.org/10.1016/j.ipm.2026.104781},
+}
+```
