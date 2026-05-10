@@ -6,12 +6,12 @@ Intent recognition stands as one of the key challenges in achieving high-quality
 ## How to train
 python main.py
 ## Set dataset for domain generalization
-**cb**: Clinic150→Banking77<br>
-**ca**: Clinic150→ACID<br>
-**ch**: Clinic150→Hwu64<br>
-**bc**: Banking77→Clinic150<br>
-**ba**: Banking77→ACID<br>
-**bh**: Banking77→Hwu64<br>
+-**cb**: Clinic150→Banking77<br>
+-**ca**: Clinic150→ACID<br>
+-**ch**: Clinic150→Hwu64<br>
+-**bc**: Banking77→Clinic150<br>
+-**ba**: Banking77→ACID<br>
+-**bh**: Banking77→Hwu64<br>
 ## Citation
 If you use this work in your research, please cite it as follows:
 
